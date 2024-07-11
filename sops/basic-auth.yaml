@@ -5,7 +5,7 @@ data:
 kind: Secret
 metadata:
     creationTimestamp: null
-    name: basic-auth
+    name: basic-auth2
     namespace: default
 sops:
     kms: []
